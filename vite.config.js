@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
-  base: "/New-App/", // Adjust this to the name of your repository
+  base: "/New-App/",
 })
